@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanawani2024
 - 👀 Passionate about data and what it has to tell. 
-- 🌱 I’m currently learning Data and Business Analytics 
+- 🌱 I’m currently learning Business Data Analytics 
 - 💞️ I’m looking to collaborate on data and business analytics projects
 - 📫 How to reach me priyanawani071994@gmail.com
 - 😄 Pronouns: She/Her
